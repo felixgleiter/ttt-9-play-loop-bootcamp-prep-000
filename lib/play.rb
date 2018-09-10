@@ -36,4 +36,5 @@ def turn(board)
 end
 
 def play(board)
+  turn(board)
   
